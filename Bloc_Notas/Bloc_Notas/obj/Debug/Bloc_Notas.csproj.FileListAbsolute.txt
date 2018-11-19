@@ -1,0 +1,30 @@
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe.config
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.pdb
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Form1.resources
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Properties.Resources.resources
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.exe
+C:\Users\usuario\source\repos\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe.config
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csprojAssemblyReference.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Form1.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Properties.Resources.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.GenerateResource.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.CoreCompileInputs.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe.config
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\bin\Debug\Bloc_Notas.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csprojAssemblyReference.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Properties.Resources.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.GenerateResource.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.csproj.CoreCompileInputs.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\Bloc_Notas\Bloc_Notas\obj\Debug\Bloc_Notas.Bloc_Notas.resources
